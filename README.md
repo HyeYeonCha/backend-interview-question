@@ -8,7 +8,7 @@ html태그 밑에 빈 라인을 추가해야 마크다운이 적용된다.
 
 예시)
 
-<details><summary style="color:skyblue">CLICK ME</summary>
+
 <p>
   
 #### yes, even hidden code blocks!
